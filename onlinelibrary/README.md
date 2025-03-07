@@ -35,7 +35,7 @@ A React-based online library system that allows users to browse, search, and man
 ## Project Structure
 
 - `/src/components`: Reusable UI components
-- `/src/pages`: Main page components
+- `/src/home`: Main page components
 - `/src/store`: Redux store and slices
 
 - `/src/data`: Mock data
